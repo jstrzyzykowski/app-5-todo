@@ -1,0 +1,28 @@
+.empty {
+  /* background-color: pink; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+  padding-bottom: 2rem;
+}
+
+.empty i {
+  font-size: 10rem;
+  color: rgb(241, 241, 241);
+  margin-bottom: 1rem;
+}
+
+.empty__text-title {
+  margin-bottom: 0.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: var(--color-text-secondary);
+}
+
+.empty__text-desc {
+  font-size: 1.4rem;
+  color: #a5a5a5;
+}
+
