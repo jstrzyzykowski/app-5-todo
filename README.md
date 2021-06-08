@@ -1,7 +1,5 @@
 # app-5-todo
 
-[![HitCount](http://hits.dwyl.com/jstrzyzykowski/app-5-todo.svg)](http://hits.dwyl.com/jstrzyzykowski/app-5-todo)
-
 ![](/project-showcase.png)
 
 ### ⚡ Getting Started
